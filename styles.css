@@ -42,4 +42,5 @@ button {
   width: 20%;
   float: left;
   cursor: pointer;
+  border: 2px solid purple;
 }

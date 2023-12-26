@@ -1,12 +1,13 @@
 h1 {
   font-family: helvetica,Times New Roman, sans-serif;
   text-align: center;
+  color: white;
 }
 
 body {
   width: 640px;
   margin: 0 auto;
-  background-colour: solid red;
+  background: url(pattern.png);
 }
 
 .full-img {
